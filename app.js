@@ -1,1 +1,3 @@
-Commande ECHO activ‚e.
+function clicked(){
+    alert("clicked !!!!!");
+}
